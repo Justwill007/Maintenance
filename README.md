@@ -5,9 +5,7 @@
 </head>
 
 <body>
-   <b style="color:red;">
       <button onclick="window.location.href = 'https://justwill007.github.io/Kawasaki-Ninja/';">back</button>
-</b>
 <body> 
    
 <p> page <b> ❶ </b> </p>
